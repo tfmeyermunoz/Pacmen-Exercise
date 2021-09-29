@@ -9,7 +9,7 @@ Pacmen Animation Project of Tomás Meyer
 ## Brief project description:
 
 The Pacmen Exercises creates a Pacman on demand (button click) and moves these Pacmen across the page. The repository structure is divided into
-HTML and CCS, which include:
+HTML, JS and image folder, which include:
 
 - index.html. The file that organizes my JavaScript and HTML codes into one file.
 - pacmen.js. The file where I define the functions to create a Pacman and move the Pacmen across the screen.
@@ -24,11 +24,11 @@ HTML and CCS, which include:
 
 ## Next steps:
 
-It would be wonderful to add more human body parts to the Eye Movement Exercise. For example, I would like to add the following:
+It would be wonderful to try to make the Pacmen Exercise look more similar to the real game. For example, I would like to add the following:
 
-1. A mouth that shows either a smile or an angry face if you click on a "mood" button.
-2. The alternative to choose the eye colour.
-3. Figure out other human movements.
+1. A labyrinth to move the Pacmen only across the paths that were crated.
+2. A css file to add some styling to the background and improve the user interface appearence.
+3. Add other figures and be able to make the Pacmen "eat" those other figures.
 
 ## License:
 
